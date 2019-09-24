@@ -6,146 +6,16 @@
         <ExperienceSection></ExperienceSection>
       </div>
       <div class="col-lg-3">
-        <section class="resume-section skills-section mb-5">
-          <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Skills &amp; Tools</h2>
-          <div class="resume-section-content">
-              <div class="resume-skill-item">
-                <h4 class="resume-skills-cat font-weight-bold">Frontend</h4>
-                <ul class="list-unstyled mb-4">
-                  <li class="mb-2">
-                      <div class="resume-skill-name">Angular</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 98%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                  <li class="mb-2">
-                      <div class="resume-skill-name">React</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 94%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                  <li class="mb-2">
-                      <div class="resume-skill-name">JavaScript</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                  
-                  <li class="mb-2">
-                      <div class="resume-skill-name">Node.js</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                  <li class="mb-2">
-                      <div class="resume-skill-name">HTML/CSS/SASS/LESS</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                </ul>
-              </div><!--//resume-skill-item-->
-              
-              <div class="resume-skill-item">
-                  <h4 class="resume-skills-cat font-weight-bold">Backend</h4>
-                <ul class="list-unstyled">
-                  <li class="mb-2">
-                      <div class="resume-skill-name">Python/Django</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                  <li class="mb-2">
-                      <div class="resume-skill-name">Ruby/Rails</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                  <li class="mb-2">
-                      <div class="resume-skill-name">PHP</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 86%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                  <li class="mb-2">
-                      <div class="resume-skill-name">WordPress/Shopify</div>
-                    <div class="progress resume-progress">
-                    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 82%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-                </div>
-                  </li>
-                </ul>
-              </div><!--//resume-skill-item-->
-              
-              <div class="resume-skill-item">
-                  <h4 class="resume-skills-cat font-weight-bold">Others</h4>
-                  <ul class="list-inline">
-                    <li class="list-inline-item"><span class="badge badge-light">DevOps</span></li>
-                    <li class="list-inline-item"><span class="badge badge-light">Code Review</span></li>
-                    <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
-                    <li class="list-inline-item"><span class="badge badge-light">Unit Testing</span></li>
-                    <li class="list-inline-item"><span class="badge badge-light">Wireframing</span></li>
-                    <li class="list-inline-item"><span class="badge badge-light">Sketch</span></li>
-                    <li class="list-inline-item"><span class="badge badge-light">Balsamiq</span></li>
-                    <li class="list-inline-item"><span class="badge badge-light">WordPress</span></li>
-                    <li class="list-inline-item"><span class="badge badge-light">Shopify</span></li>
-                  </ul>
-              </div><!--//resume-skill-item-->
-          </div><!--resume-section-content-->
-        </section><!--//skills-section-->
-        <section class="resume-section education-section mb-5">
-          <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Education</h2>
-          <div class="resume-section-content">
-            <ul class="list-unstyled">
-              <li class="mb-2">
-                  <div class="resume-degree font-weight-bold">MSc in Computer Science</div>
-                  <div class="resume-degree-org">University College London</div>
-                  <div class="resume-degree-time">2010 - 2011</div>
-              </li>
-              <li>
-                  <div class="resume-degree font-weight-bold">BSc Maths and Physics</div>
-                  <div class="resume-degree-org">Imperial College London</div>
-                  <div class="resume-degree-time">2007 - 2010</div>
-              </li>
-            </ul>
-          </div>
-        </section><!--//education-section-->
-        <section class="resume-section reference-section mb-5">
-          <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Awards</h2>
-          <div class="resume-section-content">
-            <ul class="list-unstyled resume-awards-list">
-              <li class="mb-2 pl-4 position-relative">
-                  <i class="resume-award-icon fas fa-trophy position-absolute" data-fa-transform="shrink-2"></i>
-                  <div class="resume-award-name">Award Name Lorem</div>
-                  <div class="resume-award-desc">Award desc goes here, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.</div>
-              </li>
-              <li class="mb-0 pl-4 position-relative">
-                  <i class="resume-award-icon fas fa-trophy position-absolute" data-fa-transform="shrink-2"></i>
-                  <div class="resume-award-name">Award Name Ipsum</div>
-                  <div class="resume-award-desc">Award desc goes here, ultricies nec, pellentesque.</div>
-              </li>
-            </ul>
-          </div>
-        </section><!--//interests-section-->
-        <section class="resume-section language-section mb-5">
-          <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Language</h2>
-          <div class="resume-section-content">
-            <ul class="list-unstyled resume-lang-list">
-              <li class="mb-2"><span class="resume-lang-name font-weight-bold">English</span> <small class="text-muted font-weight-normal">(Native)</small></li>
-              <li class="mb-2 align-middle"><span class="resume-lang-name font-weight-bold">French</span> <small class="text-muted font-weight-normal">(Professional)</small></li>
-              <li><span class="resume-lang-name font-weight-bold">Spanish</span> <small class="text-muted font-weight-normal">(Professional)</small></li>
-            </ul>
-          </div>
-        </section><!--//language-section-->
-        <section class="resume-section interests-section mb-5">
-          <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Interests</h2>
-          <div class="resume-section-content">
-            <ul class="list-unstyled">
-              <li class="mb-1">Climbing</li>
-              <li class="mb-1">Snowboarding</li>
-              <li class="mb-1">Cooking</li>
-            </ul>
-          </div>
-        </section><!--//interests-section-->
+        
+        <SkillsSection></SkillsSection>
+
+        <EducationSection></EducationSection>
+
+        <ReferenceSection></ReferenceSection>
+
+        <LanguageSection></LanguageSection>
+        
+        <InterestsSection></InterestsSection>
         
       </div>
     </div><!--//row-->
@@ -155,10 +25,23 @@
 <script>
 import SummarySection from "./SummarySection.vue";
 import ExperienceSection from "./ExperienceSection.vue";
+import SkillsSection from "./SkillsSection.vue";
+import EducationSection from "./EducationSection.vue";
+import ReferenceSection from "./ReferenceSection.vue";
+import LanguageSection from "./LanguageSection.vue";
+import InterestsSection from "./InterestsSection.vue";
 
 export default {
   name: "resumeBody",
-  components: { SummarySection, ExperienceSection }
+  components: {
+    SummarySection,
+    ExperienceSection,
+    SkillsSection,
+    EducationSection,
+    ReferenceSection,
+    LanguageSection,
+    InterestsSection
+  }
 }
 </script>
 
