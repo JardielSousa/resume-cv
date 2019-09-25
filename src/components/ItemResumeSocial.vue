@@ -1,5 +1,5 @@
 <template>
-  <li class="mb-3">
+  <li>
     <a :href="`https://${link}`" target="blank">
       <span class="fa-container text-center mr-2">
         <i :class="['fab', `fa-${ icon }`, 'fa-fw']"></i>

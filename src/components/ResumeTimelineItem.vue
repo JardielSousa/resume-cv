@@ -1,10 +1,10 @@
 <template>
-  <article class="resume-timeline-item position-relative pb-5">
+  <article class="resume-timeline-item position-relative">
           
     <div class="resume-timeline-item-header mb-2">
       <div class="d-flex flex-column flex-md-row">
-          <h3 class="resume-position-title font-weight-bold mb-1">{{ positionTitle }}</h3>
-          <div class="resume-company-name ml-auto">{{ companyName }}</div>
+        <h3 class="resume-position-title font-weight-bold mb-1">{{ positionTitle }}</h3>
+        <div class="resume-company-name ml-auto">{{ companyName }}</div>
       </div><!--//row-->
       <div class="resume-position-time">{{ positionTime }}</div>
     </div><!--//resume-timeline-item-header-->
