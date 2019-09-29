@@ -9,7 +9,12 @@
           company-name="Infoway Tecnologia e Gestão em Saúde"
           position-time="2018 - Presente"
           :technologies-used="['Java','Postgresql','sql','Servlet','HTML/CSS','Jquery','Api Rest']">
-          Manutenção de ERP para planos de saúde. Correções de falhas, implementação de novas funcionalidades, participação de planejamento e execução de atividades mensais usando o SCRUM como ferramenta de gerenciamento de atividades. Participação de definições de planejamento estratégico. Implementação de novas features para a mudança de arquitetura da aplicação. Criação de biblioteca REST para comunição entre aplicações.
+          Manutenção de ERP para planos de saúde. Correções de falhas, 
+          implementação de novas funcionalidades, participação de planejamento 
+          e execução de atividades mensais usando o SCRUM como ferramenta de gerenciamento 
+          de atividades. Participação de definições de planejamento estratégico. Implementação 
+          de novas features para a mudança de arquitetura da aplicação. Criação de biblioteca REST 
+          para comunição entre aplicações.
         </ResumeTimelineItem>
         
         <ResumeTimelineItem class="pb-5"
@@ -17,7 +22,11 @@
           company-name="Infoway Tecnologia e Gestão em Saúde"
           position-time="2015 - 2018"
           :technologies-used="['Java','Postgresql','sql','Servlet','HTML/CSS','Jquery','Api Rest']">
-          Manutenção de ERP para planos de saúde. Correções de falhas, implementação de novas funcionalidades, participação de planejamento e execução de atividades mensais usando o SCRUM como ferramenta de gerenciamento de atividades. Participação de definições de planejamento estratégico. Implementação de novas features para a mudança de arquitetura da aplicação. Criação de biblioteca REST para comunição entre aplicações.  
+          Manutenção de ERP para planos de saúde. Correções de falhas, implementação de novas 
+          funcionalidades, participação de planejamento e execução de atividades mensais usando o 
+          SCRUM como ferramenta de gerenciamento de atividades. Participação de definições de 
+          planejamento estratégico. Implementação de novas features para a mudança de arquitetura 
+          da aplicação. Criação de biblioteca REST para comunição entre aplicações.  
         </ResumeTimelineItem>
         
         <ResumeTimelineItem class="pb-5"
@@ -25,7 +34,9 @@
           company-name="Infoway Tecnologia e Gestão em Saúde"
           position-time="2014 - 2015"
           :technologies-used="['Java','Postgresql','sql','Servlet','HTML/CSS','Jquery']">
-          Manutenção de ERP para planos de saúde. Correções de falhas, implementação de novas funcionalidades, participação de planejamento e execução de atividades mensais usando o SCRUM como ferramenta de gerenciamento de atividades.  
+          Manutenção de ERP para planos de saúde. Correções de falhas, implementação de novas 
+          funcionalidades, participação de planejamento e execução de atividades mensais usando o 
+          SCRUM como ferramenta de gerenciamento de atividades.  
         </ResumeTimelineItem>
         
         <ResumeTimelineItem class="pb-5"
@@ -33,7 +44,8 @@
           company-name="Infoway Tecnologia e Gestão em Saúde"
           position-time="2013 - 2014"
           :technologies-used="['Java','Postgresql','sql','Servlet','HTML/CSS','Jquery']">
-          Manutenção de ERP para planos de saúde. Correções de falhas, implementação de novas funcionalidades e execução de tarefas usando SCRUM.  
+          Manutenção de ERP para planos de saúde. Correções de falhas, implementação de novas 
+          funcionalidades e execução de tarefas usando SCRUM.  
         </ResumeTimelineItem>
         
         <ResumeTimelineItem class="pb-5"

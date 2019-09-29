@@ -11,11 +11,11 @@
 
         <EducationSection></EducationSection>
 
-        <ReferenceSection></ReferenceSection>
+        <!-- <ReferenceSection></ReferenceSection> -->
 
         <LanguageSection></LanguageSection>
         
-        <InterestsSection></InterestsSection>
+        <!-- <InterestsSection></InterestsSection> -->
         
       </div>
     </div><!--//row-->
