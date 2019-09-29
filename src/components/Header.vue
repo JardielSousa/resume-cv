@@ -5,7 +5,7 @@
       <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
         <div class="primary-info">
           <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Jardiel Sousa</h1>
-          <div class="title mb-3">Backend Developer</div>
+          <div class="title mb-3">Desenvolvedor Backend</div>
           <ul class="list-unstyled">
             <li class="mb-2"><a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>Jardiel.Sousa@gmail.com</a></li>
             <li><a href="#"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>+55 86 9 9441.0241</a></li>
