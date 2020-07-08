@@ -27,9 +27,9 @@ import SummarySection from "./SummarySection.vue";
 import ExperienceSection from "./ExperienceSection.vue";
 import SkillsSection from "./SkillsSection.vue";
 import EducationSection from "./EducationSection.vue";
-import ReferenceSection from "./ReferenceSection.vue";
 import LanguageSection from "./LanguageSection.vue";
-import InterestsSection from "./InterestsSection.vue";
+// import ReferenceSection from "./ReferenceSection.vue";
+// import InterestsSection from "./InterestsSection.vue";
 
 export default {
   name: "resumeBody",
@@ -38,9 +38,9 @@ export default {
     ExperienceSection,
     SkillsSection,
     EducationSection,
-    ReferenceSection,
-    LanguageSection,
-    InterestsSection
+    LanguageSection
+    // ReferenceSection,
+    // InterestsSection
   }
 }
 </script>
