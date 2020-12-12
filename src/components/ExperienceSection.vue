@@ -5,9 +5,19 @@
       <div class="resume-timeline position-relative">
         
         <ResumeTimelineItem class="pb-5"
+          position-title="Desenvolvedor Backend II"
+          company-name="Ília Digital"
+          position-time="2020 - Presente"
+          :technologies-used="['Java','Oracle Database','Api Rest','Docker','Docker Compose','Git','Spring Boot','Feign']">
+          Criação/Manutenção de microservices. Implementação de novas funcionalidades, 
+          execução de atividades mensais usando o SCRUM como ferramenta de gerenciamento 
+          de atividades.
+        </ResumeTimelineItem>
+        
+        <ResumeTimelineItem class="pb-5"
           position-title="Desenvolvedor Sênior"
           company-name="Infoway Tecnologia e Gestão em Saúde"
-          position-time="2018 - Presente"
+          position-time="2018 - 2020"
           :technologies-used="['Java','Postgresql','sql','Servlet','HTML/CSS','Jquery','Api Rest']">
           Manutenção de ERP para planos de saúde. Correções de falhas, 
           implementação de novas funcionalidades, participação de planejamento 

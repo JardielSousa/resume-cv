@@ -10,8 +10,7 @@
         web. Foi então que em 2013 consegui um estágio na área de desenvolvimento de software e me 
         sinto amadurecer dia após dia. Atualmente, trabalho, principalmente, com Javaee, mas continuo 
         estudando outras linguagens, como Ruby, Javascript e outras. Gosto também de estudar tudo que 
-        envolve a tecnologia Spring, como o Spring MCV, Spring Security, Spring Data, dentre outros. 
-        Meu próximo desafio é aprender NodeJs, VueJs, Angular e outras tecnologias Javascript.
+        envolve a tecnologia Spring, como o Spring MCV, Spring Security, Spring Data, dentre outros.
       </p>
     </div>
   </section>
